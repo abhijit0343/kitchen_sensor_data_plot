@@ -1,6 +1,11 @@
 # Ignore all CSV data files
 *.csv
 
+# Ignore generated plot images
+*.png
+*.png
+
+
 # Virtual environment
 .venv/
 
